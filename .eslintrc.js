@@ -25,6 +25,7 @@ module.exports = {
     'no-console': 'off',
     'class-methods-use-this': 'off',
     'import/no-extraneous-dependencies': ['error', { dependecies: false }],
-    'import-first': 'off'
+    'import-first': 'off',
+    'camelcase': 'off'
   },
 };
